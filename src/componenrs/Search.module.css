@@ -1,0 +1,20 @@
+.search{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: var(--color-border);
+    color: var(--color-text);  
+    border-radius: 10px ;
+}
+
+.search input{
+    width: 85%;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+}
+
+
+
+
+

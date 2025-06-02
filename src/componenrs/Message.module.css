@@ -1,0 +1,35 @@
+@keyframes slideIn {
+    0% {
+      opacity: 0;
+      transform: translateX(450px);
+    }
+    50% {
+      transform: translateX(0px);
+    }
+    100% {
+        opacity:1;
+      transform: translateX(30px);
+    }
+  }
+    
+  .message {
+    width: 400px;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    z-index: 100;
+    border-radius: 8px;
+    padding: 10px;
+    animation: slideIn 1s forwards;
+  }
+  
+.error{
+    background-color: var(--color-error);
+    color: var(--color-text);
+}
+
+.success{
+    background-color: var(--color-success);
+    color: var(--color-surface);
+
+}
