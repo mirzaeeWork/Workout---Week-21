@@ -1,0 +1,158 @@
+@import "../assets/fonts/Inter/inter.css";
+
+:root {
+  font-family: "Inter", system-ui, Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* Light Theme */
+  --color-primary: #4f46e5;
+  --color-primary-light: #4a58d8;
+  --color-secondary: #10b981;
+  --color-accent: #f59e0b;
+  --color-background: #ffffff;
+  --color-surface: #f3f4f6;
+  --color-surface-hover: #d1d5db; /* تیره‌تر برای Light Mode */
+  --color-text: #111827;
+  --color-text-hover: #0f141b; /* تیره‌تر برای Light Mode */
+  --color-text-light: #374151;
+  --color-muted: #b0b8c9;
+  --color-border: #e5e7eb;
+  --color-error: #ef4444;
+  --color-error-hover: #d40000; /* تیره‌تر برای Light Mode */
+  --color-success: #199145;
+  --color-success-hover: #0f7a36; /* تیره‌تر برای Light Mode */
+}
+
+body.dark {
+  /* Dark Theme */
+  --color-primary: #7883e2;
+  --color-primary-light: #5e57e9;
+  --color-secondary: #34d399;
+  --color-accent: #fbbf24;
+  --color-background: #111827;
+  --color-surface: #1f2937;
+  --color-surface-hover: #2d3748; /* روشن‌تر برای Dark Mode */
+  --color-text: #f9fafb;
+  --color-text-hover: #e5e7eb; /* روشن‌تر برای Dark Mode */
+  --color-text-light: #e5e7eb;
+  --color-muted: #cfd7e7;
+  --color-border: #374151;
+  --color-error: #bd4f4f;
+  --color-error-hover: #f55c5c; /* روشن‌تر برای Dark Mode */
+  --color-success: #1d8041;
+  --color-success-hover: #1e9e3c; /* روشن‌تر برای Dark Mode */
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: 1400px;
+  margin: 0 auto; /* این یعنی وسط */
+  background-color: var(--color-background);
+  color: var(--color-text);
+  transition: all 0.3s ease-in-out;
+  overflow-x: hidden;
+}
+
+button,
+input,
+a {
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  transition: all 0.2s ease-in-out;
+}
+
+input {
+  background-color: var(--color-border);
+  color: var(--color-text);
+}
+
+button {
+  background-color: var(--color-primary);
+  border: 1px solid var(--color-primary);
+  color: var(--color-background);
+  transition: all 0.1s ease-in-out;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-text);
+  display: inline-block;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--color-primary-light);
+  transform: rotate(1deg) scale(1.05);
+  cursor: pointer;
+}
+
+
+a:hover {
+  color: var(--color-text-light);
+  transform: rotate(1deg) scale(1.02);
+}
+
+input:focus,
+button:focus,
+a:focus {
+  outline: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: normal; /* یا bold، بسته به دیزاینت */
+  color: var(--color-text);
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+h3 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+h4 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+h5 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+.container {
+  margin: 2rem 1rem;
+}

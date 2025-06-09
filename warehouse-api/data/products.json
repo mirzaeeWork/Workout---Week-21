@@ -1,0 +1,662 @@
+[
+  {
+    "id": "d3ac5c63-1a1a-495c-8df0-95804b308cb7",
+    "name": "Samsung Galaxy S24",
+    "price": 1000,
+    "quantity": 7
+  },
+  {
+    "id": "09d0cf70-2433-4c9b-8014-7c7cb9a4184d",
+    "name": "MacBook Air M2",
+    "price": 1299,
+    "quantity": 789
+  },
+  {
+    "id": "0c64e409-f20b-4097-9422-41e89c4c01b3",
+    "name": "Apple Watch Series 9",
+    "price": 499,
+    "quantity": 55
+  },
+  {
+    "id": "92b0199e-8e06-4f5f-942b-9942a5916e1f",
+    "name": "Google Pixel 8 Pro",
+    "price": 899,
+    "quantity": 33
+  },
+  {
+    "id": "f758b9cd-5ed7-4fa1-b1bb-8a0f75ad8786",
+    "name": "Logitech MX Master 3S",
+    "price": 129,
+    "quantity": 80
+  },
+  {
+    "id": "52a489f3-5e34-4c43-acc2-43a01a6be73e",
+    "name": "Canon EOS R10",
+    "price": 1099,
+    "quantity": 12
+  },
+  {
+    "id": "4ed9f7d4-c4c0-4b08-84e2-2ff67623ef8c",
+    "name": "PlayStation 5",
+    "price": 484,
+    "quantity": 22
+  },
+  {
+    "id": "e8f6a272-5278-4a4f-9b61-5396248c87b0",
+    "name": "Kindle Paperwhite",
+    "price": 139,
+    "quantity": 44
+  },
+  {
+    "id": "137dfb87-d88e-4a1c-bdf0-b1eabcbcbff7",
+    "name": "Samsung 4K Monitor 32",
+    "price": 379,
+    "quantity": 500
+  },
+  {
+    "id": "e96e5674-cbdb-4a59-9302-78b14e6cc5c7",
+    "name": "HP LaserJet MFP M428fdw",
+    "price": 529,
+    "quantity": 10
+  },
+  {
+    "id": "f63a586b-9ee5-41fa-9484-1adf6811efc4",
+    "name": "Razer BlackWidow V4",
+    "price": 179,
+    "quantity": 55
+  },
+  {
+    "id": "86c6ed33-7b26-4c25-8d40-9f7861f60db1",
+    "name": "Google Nest Hub 2nd Gen",
+    "price": 99,
+    "quantity": 44
+  },
+  {
+    "id": "013b4b0e-3c9c-4f5e-b33b-0417099ac767",
+    "name": "Bose SoundLink Flex",
+    "price": 149,
+    "quantity": 38
+  },
+  {
+    "id": "98be0880-94b4-4c92-9d91-d142e5e2a6d9",
+    "name": "DJI Mini 4 Pro",
+    "price": 749,
+    "quantity": 14
+  },
+  {
+    "id": "e04fc69a-16a5-4ce1-abe9-1144732f20c4",
+    "name": "GoPro Hero 12",
+    "price": 399,
+    "quantity": 8
+  },
+  {
+    "id": "a93ae3e5-e90d-4bcb-bf56-3e3183b028e1",
+    "name": "TP-Link Archer AX11000",
+    "price": 349,
+    "quantity": 66
+  },
+  {
+    "id": "9b647a47-bef8-4b44-b42d-4c799b58b593",
+    "name": "Fitbit Charge 6",
+    "price": 159,
+    "quantity": 45
+  },
+  {
+    "id": "3e4b33ef-d6d4-4a31-9804-93a121d3b48c",
+    "name": "ASUS ROG Strix RTX 4090",
+    "price": 1999,
+    "quantity": 5
+  },
+  {
+    "id": "78c40320-21cb-42d3-9d10-1d6031fbe3fd",
+    "name": "WD Black SN850X 2TB",
+    "price": 229,
+    "quantity": 22
+  },
+  {
+    "id": "c8c4cfbe-eab7-4644-90a0-167a9fa39aa4",
+    "name": "Corsair Vengeance 32GB RAM",
+    "price": 119,
+    "quantity": 60
+  },
+  {
+    "id": "2f6813a0-ffeb-453f-8d27-1a3ec5d8d9e7",
+    "name": "MSI MAG B660M Mortar",
+    "price": 189,
+    "quantity": 30
+  },
+  {
+    "id": "0d9ed20d-12dc-49e5-8b86-fc09b6d7d7bb",
+    "name": "AMD Ryzen 7 7800X3D",
+    "price": 449,
+    "quantity": 25
+  },
+  {
+    "id": "7db6277d-9e11-44cb-9989-26b4e9b4f202",
+    "name": "Intel Core i9-14900K",
+    "price": 589,
+    "quantity": 20
+  },
+  {
+    "id": "6373b2db-f65c-4fa4-9f5f-b70e9aa2ecaa",
+    "name": "ASUS ZenBook 14 OLED",
+    "price": 999,
+    "quantity": 14
+  },
+  {
+    "id": "fe9a7336-87bc-4214-a3eb-e2f6fcf771e0",
+    "name": "Beats Studio Buds",
+    "price": 149,
+    "quantity": 66
+  },
+  {
+    "id": "b36be27c-41f7-4032-bb3e-9c79fc28aa11",
+    "name": "Samsung T7 SSD 1TB",
+    "price": 129,
+    "quantity": 656
+  },
+  {
+    "id": "2f1b457f-e98e-4bb7-b334-6219d60c3a63",
+    "name": "Philips Hue Starter Kit",
+    "price": 199,
+    "quantity": 26
+  },
+  {
+    "id": "17bcb878-2eb9-4d65-99a7-1b8f20ab0e20",
+    "name": "TP-Link Smart Plug",
+    "price": 24,
+    "quantity": 85
+  },
+  {
+    "id": "a45c96ab-d1e6-4cfb-986f-3e28de0cc4a4",
+    "name": "Xiaomi Mi Band 8",
+    "price": 49,
+    "quantity": 90
+  },
+  {
+    "id": "fe00230d-384e-42b7-a01b-1a69a7b6797b",
+    "name": "Roku Streaming Stick 4K",
+    "price": 49,
+    "quantity": 77
+  },
+  {
+    "id": "4f03cb8b-6c24-4d97-a9a3-44700c59c8c4",
+    "name": "LG UltraGear 27\" Gaming",
+    "price": 349,
+    "quantity": 16
+  },
+  {
+    "id": "e7b7c102-07d3-4158-af6e-83ac8e9f4285",
+    "name": "سامسونگ",
+    "price": 888,
+    "quantity": 3555
+  },
+  {
+    "id": "075ee535-ebb8-4d34-ba7d-b9ca62af63ac",
+    "name": "لپ تاپ",
+    "price": 5500,
+    "quantity": 10
+  },
+  {
+    "id": "016b60ff-20c7-4d11-af14-c37ce754ca40",
+    "name": "iPad Pro 13 M4",
+    "price": 3108,
+    "quantity": 512
+  },
+  {
+    "id": "bdd3a1bc-97ba-4535-824a-2066a343e50f",
+    "name": "Xbox Series X",
+    "price": 4014,
+    "quantity": 47
+  },
+  {
+    "id": "3389a4e0-19d6-4de0-94a6-522b276a439a",
+    "name": "Surface Laptop 5",
+    "price": 505,
+    "quantity": 600
+  },
+  {
+    "id": "c66c0cf4-afa1-4bcf-a554-67debc3433c4",
+    "name": "Lenovo Yoga 9i",
+    "price": 4281,
+    "quantity": 415
+  },
+  {
+    "id": "5854c080-290e-4ee9-99c0-a4bacb40a459",
+    "name": "Garmin Forerunner 965",
+    "price": 612,
+    "quantity": 561
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "name": "HyperX Cloud II",
+    "price": 129,
+    "quantity": 320
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-bcde-fa2345678901",
+    "name": "ASRock Z790 Taichi",
+    "price": 399,
+    "quantity": 150
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-cdef-ab3456789012",
+    "name": "Samsung QLED TV 55\"",
+    "price": 999,
+    "quantity": 75
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-def0-bc4567890123",
+    "name": "Alienware Aurora R16",
+    "price": 2199,
+    "quantity": 65
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-ef01-cd5678901234",
+    "name": "Epson EcoTank ET-4850",
+    "price": 499,
+    "quantity": 85
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-f012-de6789012345",
+    "name": "OnePlus 12",
+    "price": 799,
+    "quantity": 200
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-0123-ef7890123456",
+    "name": "NVIDIA RTX 4080 Super",
+    "price": 1199,
+    "quantity": 60
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-1234-fg8901234567",
+    "name": "Crucial MX500 SSD 1TB",
+    "price": 99,
+    "quantity": 500
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-2345-gh9012345678",
+    "name": "Netgear Nighthawk AX12",
+    "price": 299,
+    "quantity": 120
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-3456-hi0123456789",
+    "name": "Elgato Stream Deck MK.2",
+    "price": 149,
+    "quantity": 250
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-4567-ij1234567890",
+    "name": "Acer Predator Helios 16",
+    "price": 1799,
+    "quantity": 30
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-5678-jk2345678901",
+    "name": "Asus TUF Gaming Monitor",
+    "price": 349,
+    "quantity": 95
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-6789-kl3456789012",
+    "name": "Thermaltake Toughpower 850W",
+    "price": 129,
+    "quantity": 180
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-7890-lm4567890123",
+    "name": "SteelSeries Arctis Nova 7",
+    "price": 179,
+    "quantity": 220
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1234-8901-mn5678901234",
+    "name": "LG Gram 17",
+    "price": 1599,
+    "quantity": 50
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2345-9012-no6789012345",
+    "name": "Jabra Elite 8 Active",
+    "price": 199,
+    "quantity": 300
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-0123-op7890123456",
+    "name": "NZXT H510 Elite",
+    "price": 149,
+    "quantity": 140
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-1234-pq8901234567",
+    "name": "Sennheiser HD 660S",
+    "price": 499,
+    "quantity": 65
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5678-2345-qr9012345678",
+    "name": "Wacom Intuos Pro",
+    "price": 379,
+    "quantity": 90
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6789-3456-rs0123456789",
+    "name": "Amazon Echo Show 8",
+    "price": 129,
+    "quantity": 400
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-4567-st1234567890",
+    "name": "Tile Pro 2022",
+    "price": 34,
+    "quantity": 600
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-5678-tu2345678901",
+    "name": "Sony Bravia 4K 65\"",
+    "price": 1199,
+    "quantity": 70
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-6789-uv3456789012",
+    "name": "Razer Kraken V3",
+    "price": 99,
+    "quantity": 330
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-7890-vw4567890123",
+    "name": "Seagate Expansion 5TB",
+    "price": 119,
+    "quantity": 210
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-8901-wx5678901234",
+    "name": "Noctua NH-D15",
+    "price": 89,
+    "quantity": 160
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-9012-xy6789012345",
+    "name": "ZOTAC RTX 4070 Twin Edge",
+    "price": 599,
+    "quantity": 55
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3456-0123-yz7890123456",
+    "name": "Intel Arc A770",
+    "price": 349,
+    "quantity": 100
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4567-1234-za8901234567",
+    "name": "Cooler Master Hyper 212",
+    "price": 39,
+    "quantity": 500
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5678-2345-ab9012345678",
+    "name": "ASUS ROG Ally",
+    "price": 699,
+    "quantity": 80
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6789-3456-bc0123456789",
+    "name": "TCL 6-Series 65\"",
+    "price": 899,
+    "quantity": 90
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-4567-cd1234567890",
+    "name": "Panasonic Lumix GH6",
+    "price": 2199,
+    "quantity": 35
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-5678-de2345678901",
+    "name": "Audio-Technica ATH-M50x",
+    "price": 149,
+    "quantity": 250
+  },
+  {
+    "id": "9c2f1a04-3f30-4f49-8897-12ae108ee3e0",
+    "name": "Canon EOS R8",
+    "price": 1499,
+    "quantity": 44
+  },
+  {
+    "id": "4d379b80-7e26-4681-9ecf-b250fe4a9472",
+    "name": "MSI Clutch GM41 Mouse",
+    "price": 59,
+    "quantity": 160
+  },
+  {
+    "id": "4c6707b7-30b8-44a3-99ee-8472a988bb6c",
+    "name": "Corsair iCUE H150i Elite",
+    "price": 189,
+    "quantity": 88
+  },
+  {
+    "id": "0610144f-9c3b-4e49-bd93-9f1d438d78cc",
+    "name": "Bose QuietComfort Ultra",
+    "price": 429,
+    "quantity": 95
+  },
+  {
+    "id": "8e114d08-7f3f-48a2-b80a-1a0c2d0d3a3e",
+    "name": "Google Pixel 8 Pro",
+    "price": 999,
+    "quantity": 190
+  },
+  {
+    "id": "663cfd3b-bec0-40f4-83cd-e9d7b9d91a45",
+    "name": "Xiaomi Mi Band 8",
+    "price": 49,
+    "quantity": 650
+  },
+  {
+    "id": "3ba700b2-343e-4563-888f-88b68da2498d",
+    "name": "ASUS ZenBook Duo",
+    "price": 1799,
+    "quantity": 44
+  },
+  {
+    "id": "1cde4e87-ec72-4a1b-a8db-04aa8fc3e32f",
+    "name": "Samsung T7 Shield 2TB",
+    "price": 179,
+    "quantity": 310
+  },
+  {
+    "id": "eef6f5de-b202-4f37-a46d-6b6509b0f37e",
+    "name": "Dell UltraSharp U2724D",
+    "price": 629,
+    "quantity": 85
+  },
+  {
+    "id": "bc6cfd04-dcec-4d41-b7ee-86a47851a64f",
+    "name": "Razer Blade 16",
+    "price": 2699,
+    "quantity": 25
+  },
+  {
+    "id": "b6d1e2cb-e946-4d80-9f0d-4f4c9e0ec28a",
+    "name": "HyperX Pulsefire Haste",
+    "price": 49,
+    "quantity": 270
+  },
+  {
+    "id": "e97bfe3e-4c5b-45e9-bc00-8351c50dd7b2",
+    "name": "BenQ EX3501R",
+    "price": 649,
+    "quantity": 55
+  },
+  {
+    "id": "88db87e5-b58c-40e2-8b2a-33c6c9a90e98",
+    "name": "Anker Soundcore Motion+",
+    "price": 99,
+    "quantity": 300
+  },
+  {
+    "id": "fe2cc63d-66b7-43e4-96f9-1d9fa02e6ab6",
+    "name": "Samsung Galaxy Tab S9",
+    "price": 899,
+    "quantity": 112
+  },
+  {
+    "id": "efb97b53-9ab5-474f-878b-5f95f3790cf4",
+    "name": "Synology DS923+",
+    "price": 599,
+    "quantity": 37
+  },
+  {
+    "id": "5875c831-944d-437e-8533-9d6d2cd19b5e",
+    "name": "Logitech MX Keys S",
+    "price": 109,
+    "quantity": 45
+  },
+  {
+    "id": "a67f92ff-3c7d-4a6c-a437-c9e5e5dc4c82",
+    "name": "Beats Studio Pro",
+    "price": 349,
+    "quantity": 150
+  },
+  {
+    "id": "9fb91e07-93dc-4b53-b6f5-2b2e3a474c07",
+    "name": "Apple Watch Ultra 2",
+    "price": 799,
+    "quantity": 95
+  },
+  {
+    "id": "d7b7deaa-9b0f-4c8d-b314-f3ed627e127f",
+    "name": "TP-Link Archer AX11000",
+    "price": 349,
+    "quantity": 120
+  },
+  {
+    "id": "73e1c7c5-b262-4d69-a769-6ebf179e55c1",
+    "name": "Acer Nitro 5",
+    "price": 1099,
+    "quantity": 75
+  },
+  {
+    "id": "bccc585e-0c72-47d2-857e-c5f469ced4db",
+    "name": "LG UltraFine 5K",
+    "price": 1299,
+    "quantity": 28
+  },
+  {
+    "id": "17167d34-5b60-4b2f-a446-014bf071f9a4",
+    "name": "Corsair K100 RGB",
+    "price": 229,
+    "quantity": 145
+  },
+  {
+    "id": "f6cdcb30-2d20-4b65-9479-2203cf168f92",
+    "name": "Sony WH-1000XM5",
+    "price": 399,
+    "quantity": 270
+  },
+  {
+    "id": "cfcd8b80-10a2-4d45-9946-e68801e5296f",
+    "name": "Roku Streaming Stick 4K",
+    "price": 49,
+    "quantity": 500
+  },
+  {
+    "id": "ebd463db-6a42-4bfb-b6de-58e9ad89df90",
+    "name": "XPG Lancer RGB 32GB",
+    "price": 129,
+    "quantity": 240
+  },
+  {
+    "id": "5c7ef194-fcb1-4766-a290-f181b3f55bcf",
+    "name": "NZXT Kraken Z73 RGB",
+    "price": 279,
+    "quantity": 3
+  },
+  {
+    "id": "4fc8237d-09b4-4b83-b310-77449157eac8",
+    "name": "Amazon Kindle Scribe",
+    "price": 339,
+    "quantity": 125
+  },
+  {
+    "id": "c2a5f304-6f21-46dc-8f71-5a9de07a5c0e",
+    "name": "Apple AirPods Pro 2",
+    "price": 249,
+    "quantity": 500
+  },
+  {
+    "id": "98640a27-1141-45b9-a58c-5b31c1e01660",
+    "name": "Fractal Design Meshify 2",
+    "price": 149,
+    "quantity": 95
+  },
+  {
+    "id": "ac0e77a6-41f3-45a7-a02c-e062b265dc1f",
+    "name": "Intel Core i9-14900K",
+    "price": 599,
+    "quantity": 65
+  },
+  {
+    "id": "61fd244e-145a-4d1e-b9b6-5a971f77b4e5",
+    "name": "AMD Ryzen 9 7900X",
+    "price": 479,
+    "quantity": 80
+  },
+  {
+    "id": "457be67c-c30b-43cb-bd3f-40d50850ff89",
+    "name": "G.Skill Trident Z5 RGB 64GB",
+    "price": 299,
+    "quantity": 1090
+  },
+  {
+    "id": "2db1a731-e364-4c4f-9c32-227e6c230e64",
+    "name": "Philips Hue Starter Kit",
+    "price": 179,
+    "quantity": 100
+  },
+  {
+    "id": "78d9c531-2dd4-4e93-b59e-3e8270e1f69f",
+    "name": "ViewSonic XG2431",
+    "price": 329,
+    "quantity": 90
+  },
+  {
+    "id": "f6eb364b-1f4d-4a65-9e35-e06d1b28b403",
+    "name": "AOC CQ32G3SU/BK",
+    "price": 379,
+    "quantity": 70
+  },
+  {
+    "id": "cce1b508-1a29-4396-9d82-eabbff7dc2c9",
+    "name": "Samsung Smart Monitor M8",
+    "price": 699,
+    "quantity": 66
+  },
+  {
+    "id": "1c10500e-c992-46c3-871e-661302a9e3d4",
+    "name": "Steam Deck OLED 1TB",
+    "price": 649,
+    "quantity": 38
+  },
+  {
+    "id": "842823c9-92f5-4d7f-9095-05a658f0a24f",
+    "name": "لپ تاپd",
+    "price": 2500,
+    "quantity": 36
+  },
+  {
+    "id": "30c22cfd-e0ae-4e93-af09-f12666b87a8b",
+    "name": "MacBook Air M22",
+    "price": 399,
+    "quantity": 34
+  },
+  {
+    "id": "9c3514cd-9eea-4338-89d4-6ddba9e5cd8e",
+    "name": "MacBook Air",
+    "price": 656,
+    "quantity": 99
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1728976019670",
+    "username": "milad",
+    "password": "$2a$10$zjEVIQqXtUwXbB3NoRMwNOH8b4eUoHJ12g.RVkOLCHnHTgm2gcNZ.",
+    "roleId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
+  },
+  {
+    "id": "1748363572144",
+    "username": "samane",
+    "password": "$2a$10$qQUxZNfqDaz5oi5126p6R.r3YcH.WyjAtsxVcT.6OLLYjNdgnzpLO",
+    "roleId": "6ba7b810-9dad-11d1-80b4-00c04fd430c9"
+  },
+  {
+    "id": "1748503286292",
+    "username": "admin",
+    "password": "$2a$10$5zaD8dMb1U.tcF0SrErDcelaECB0jinCQ4WsLJEuB10O4/y/raRSS",
+    "roleId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
+  },
+  {
+    "id": "1748804880787",
+    "username": "samane-mirzaei",
+    "password": "$2a$10$E3Kh0UUmr2GSFgVvZ217iuqItcZCksBX8S9qUozbXQAjOQsLsTecC",
+    "roleId": "6ba7b810-9dad-11d1-80b4-00c04fd430c9"
+  },
+  {
+    "id": "1749307219004",
+    "username": "mirzaei",
+    "password": "$2a$10$.Y19jq9ExSBdExBC0p4YCet9pctRM4f4tWZ2Y4oWCbJml8S6zWvVe",
+    "roleId": "550e8400-e29b-41d4-a716-446655440000"
+  }
+]

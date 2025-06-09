@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px 20px;
+  width: 100%;
+  background-color: var(--color-border);
+  color: var(--color-text);
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.login {
+  width: 10%;
+  border-right: 1px solid var(--color-text);
+}
+
+.link_Login {
+  background-color: transparent;
+  width: 95%;
+  text-align: center;
+  border: none;
+  border-radius: 0px;
+  color: var(--color-text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.link_Login:hover {
+  color: var(--color-text);
+  transform: rotate(1deg) scale(1.2);
+}
+
+.link_Login svg{
+    margin-top: .5rem;
+}

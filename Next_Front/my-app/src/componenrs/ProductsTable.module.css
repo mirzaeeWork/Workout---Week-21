@@ -1,0 +1,109 @@
+/* UsersTable.module.css */
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.th {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.th,
+.tr {
+  border-bottom: 1px solid var(--color-border);
+  padding: 12px;
+}
+
+.td {
+  padding: 12px;
+}
+
+.tr:hover {
+  background-color: var(--color-border);
+}
+
+.tdActions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonCrud {
+  margin: 0 10px;
+  padding: 0px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.buttonCrud:hover {
+  background-color: var(--color-border);
+}
+
+.buttonCrud svg:hover{
+  transform: rotate(1deg) scale(1.3);
+  background-color: var(--color-border);
+
+}
+
+
+.buttonEdit {
+  color: var(--color-success);
+}
+
+.buttonEdit:hover {
+  background-color: var(--color-background);;
+  color: var(--color-success-hover);
+    border: none;
+
+}
+
+.buttonDelete {
+  color: var(--color-error);
+  margin-right: 0;
+}
+
+.buttonDelete:hover {
+  background-color: var(--color-background);;
+  color: var(--color-error-hover);
+    border: none;
+
+}
+
+
+.td label {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid var(--color-text-hover);
+}
+
+.td .labelChecked {
+  background-color: var(--color-error);
+}
+
+.pegination {
+  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.btn_pegination {
+  background-color: transparent;
+  border: 1px solid var(--color-primary);
+  color: var(--color-text);
+  transition: all 0.1s ease-in-out;
+}
+
+.btn_disabled {
+  opacity: 0.5;
+}
+
+.btn_disabled:hover {
+  cursor: not-allowed;
+}
